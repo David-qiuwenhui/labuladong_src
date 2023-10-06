@@ -11,7 +11,8 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/02_滑动窗口速记卡/script01-76.js"
+            "program": "${file}"
+            // "program": "${workspaceFolder}/02_滑动窗口速记卡/script03-438.js"
         }
     ]
 }
